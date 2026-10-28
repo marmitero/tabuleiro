@@ -2,8 +2,8 @@
 Nome provisório • jogo de tabuleiro para navegador • português brasileiro.
 
 ## Estado
-Pré-produção em 28/10/2026. Documentação v0.1 para aprovação do proprietário.
-**Nenhum código de jogo ou sprite foi produzido.** Próxima etapa: aprovação das regras e direção visual; depois produção e validação das imagens; somente então implementação.
+Pré-produção em 28/10/2026. Proposta aprovada pelo proprietário; detalhamento v0.2 e conceitos visuais em produção.
+**Nenhum código de jogo foi produzido.** Etapa atual e pendências em [AI_State.md](AI_State.md). Imagens precedem implementação.
 
 ## Visão
 De 1 a 8 pessoas, com bots para completar partidas, disputam cinco cristais em um parque de brinquedos com caminhos ramificados. Cada participante é uma pessoa carregando um carrinho de brinquedo. Moedas, tempo de preparação, investimentos e escolhas de rota sustentam a disputa.
@@ -14,6 +14,8 @@ De 1 a 8 pessoas, com bots para completar partidas, disputam cinco cristais em u
 3. [Pesquisa e áudio](docs/03-REFERENCIAS-AUDIO.md)
 4. [Arquitetura e qualidade](docs/04-ARQUITETURA-QUALIDADE.md)
 5. [Roadmap e aprovação](docs/05-ROADMAP-APROVACAO.md)
+6. [Mapa e produção](docs/06-MAPA-PRODUCAO.md)
+7. [Estado de continuidade](AI_State.md)
 
 ## Ordem obrigatória
 Documentação → aprovação → imagens e sprites aprovados → implementação local offline → testes → online privado → matchmaking público → lançamento.

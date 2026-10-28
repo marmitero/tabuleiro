@@ -1,12 +1,12 @@
 # Bíblia de arte, HUD e produção de imagens — v0.1
-Status: direção proposta, aguardando aprovação. Nenhuma imagem gerada nesta etapa.
+Status: direção aprovada em 28/10/2026; conceitos em produção.
 Aplicar skill imagegen na produção: imagem gerada de verdade, fundo transparente quando necessário, inspeção visual antes de aceitar.
 
 ## Direção visual
 2D com aparência de miniaturas 3D pintadas, vista superior oblíqua fixa (aproximadamente 35 graus), volumes arredondados, contornos discretos, luz suave do alto à esquerda e sombras curtas.
 Tabuleiro colorido em parque de brinquedos; piso menos saturado que personagens e cristais. Evitar excesso de decoração sobre casas.
 Não copiar personagens, silhuetas, mapas ou HUD das referências.
-Recomendação para “carregando”: pessoa caminhando e segurando o carrinho de brinquedo nas mãos, à frente do corpo, com cristais visíveis nele. Não presumir que a pessoa dirige ou empurra o carrinho; confirmar essa leitura antes da folha de personagem.
+Recomendação para “carregando”: pessoa caminhando e segurando o carrinho de brinquedo nas mãos, à frente do corpo, com cristais visíveis nele. Leitura incluída na proposta aprovada: a pessoa segura o carrinho, sem dirigir ou empurrar.
 
 ## Política de imagens
 Todo elemento artístico do jogo vem de arquivos raster gerados: cenário, caminhos, casas, personagens, carrinhos, moedas, cristais, dado, ícones, molduras e efeitos.

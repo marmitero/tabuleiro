@@ -1,5 +1,5 @@
 # Roadmap e decisões para aprovação — v0.1
-Todo item abaixo está pendente, exceto documentação inicial e pesquisa. Não são promessas de prazo.
+Etapas 0 e 1 concluídas; etapa 2 detalhada e conferida estruturalmente; etapa 3 em produção. Não são promessas de prazo.
 
 ## Sequência passo a passo
 | Etapa | Entrega | Condição de avanço |
@@ -42,3 +42,6 @@ A opção de jogar sozinho significa solo contra bots; modo treino isolado é se
 ## Como registrar aprovação
 O proprietário pode aprovar o pacote ou alterar pontos específicos. Registrar data, pontos aprovados, exceções e próxima etapa autorizada neste documento. Não interpretar entrega de documentação como aprovação automática.
 Próxima ação recomendada após aprovação: fechar tabela das 60 casas e gerar conceitos, antes de qualquer código.
+
+## Aprovação registrada — 28/10/2026
+Usuário: “achei boa a organização e proposta, pode seguir”. Pacote de recomendações aprovado sem exceções; autorizado detalhar mapa e gerar conceitos. Exigências adicionais: sempre commit/push e manter AI_State atualizado. Revisão dos conceitos precede produção em escala, conforme roadmap.

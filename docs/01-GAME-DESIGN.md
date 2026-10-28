@@ -1,5 +1,5 @@
-# Game Design Document — v0.1
-Status: proposta para aprovação. Todos os valores numéricos adicionais são hipóteses de balanceamento, não resultados de testes.
+# Game Design Document — v0.2
+Status: proposta aprovada pelo proprietário em 28/10/2026; mapa detalhado em docs/06-MAPA-PRODUCAO.md. Todos os valores numéricos adicionais são hipóteses de balanceamento, não resultados de testes.
 
 ## 1. Requisitos definidos pelo usuário
 - Jogo de navegador, futuramente online com GitHub, Vercel e Supabase; primeira versão local offline.
